@@ -1,1 +1,1 @@
-Write-Host "Powershell script execution in jenkins job successfully done"
+Write-Host "Azure Vm created successfully"
