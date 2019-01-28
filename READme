@@ -1,1 +1,8 @@
 testproj
+
+provider "azurerm" {
+subscription_id = "a03e1ea7-ae83-4452-9629-4654f6528940"
+client_id       = "0ca35bd7-945f-4a7c-a944-85bfa18bb163"
+client_secret   = "Powershell r0cks!"
+tenant_id       = "7d84edcc-c06a-4d04-b0dc-5e4a784d32db"
+}
